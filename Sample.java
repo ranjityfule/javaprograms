@@ -4,4 +4,5 @@ public class Sample{
 		System.out.println("Hello World!");
 	}
 	public static void logs(){}
+	public static void logs4k(){}
 }
