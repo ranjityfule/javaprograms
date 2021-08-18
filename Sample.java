@@ -5,4 +5,5 @@ public class Sample{
 	}
 	public static void logs(){}
 	public static void logs4k(){}
+	public static void logsforIPC(){}
 }
